@@ -11,7 +11,7 @@ Species: Stickfigure
 
 ## Alt Names
 
-{{alt_names}}
+- Gra
 
 ## Powers / Techniques
 
