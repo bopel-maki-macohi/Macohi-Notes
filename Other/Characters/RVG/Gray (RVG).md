@@ -2,10 +2,10 @@
 
 # Overview
 
-{{overview}}
+One of the main protags of RVG
 
-Pronouns: {{pronouns}}
-Gender: {{gender}}
+Pronouns: He / Him
+Gender: Male
 
 Species: [Stickfigure](../../Species/Stickfigure.md)
 
