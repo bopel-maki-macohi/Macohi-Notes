@@ -17,7 +17,7 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 
 - [Fury "Form"](../../Explanations/Fury%20Form%20(RVG).md)
 
-- After Image : Using energy to speed away while it leaves behind an after image.
+- After Image
 
 
 # Projects
