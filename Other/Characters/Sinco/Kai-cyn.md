@@ -23,7 +23,7 @@ Species: [Anohun](../../Species/Anohun.md) (HA_06 Level 3)
 
 ## Powers / Techniques
 
-- Fuerza (hehehe)
+- [Fuerza](../../AI%20Explanations/Fuerza.md) (hehehe)
 
 # Projects
 
