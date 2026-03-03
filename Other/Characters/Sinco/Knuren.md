@@ -11,7 +11,7 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers / Techniques
 
-- Strength
+- Enhanced Strength
 
 # Projects
 
