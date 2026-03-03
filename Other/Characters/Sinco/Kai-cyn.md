@@ -15,7 +15,7 @@ So basically a Saiyan with Kaio-Ken and healing powers.
 Pronouns: He / Him
 Gender: Males
 
-Species: [Anohun](../Species/Anohun.md) (HA_06 Level 3)
+Species: [Anohun](../../Species/Anohun.md) (HA_06 Level 3)
 
 ## Alt Names
 
@@ -27,4 +27,4 @@ Species: [Anohun](../Species/Anohun.md) (HA_06 Level 3)
 
 # Projects
 
-- [Kai-cyn (Story)](../../Projects/Stories/Post-T-mor/Kai-cyn%20(Story).md)
+- [Kai-cyn (Story)](../../../Projects/Stories/Post-T-mor/Kai-cyn%20(Story).md)

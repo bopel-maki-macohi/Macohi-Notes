@@ -1,10 +1,10 @@
-Plans for [Knuren's](../Characters/Knuren.md) involvement so he isn't a one-off.
+Plans for [Knuren's](../Characters/Sinco/Knuren.md) involvement so he isn't a one-off.
 
 # Part 1 : Knuren Arc
 
 In Knuren's arc its basically a Sonic 3 & Knuckles.
 
-[Evil Tirok](../Characters/Tirok.md) has tricked Knuren into thinking [Sincos](../Characters/Sinco.md) bad and after the Master Emerald Shards and Chaos Emeralds.
+[Evil Tirok](../Characters/Sinco/Tirok.md) has tricked Knuren into thinking [Sincos](../Characters/Sinco/Sinco.md) bad and after the Master Emerald Shards and Chaos Emeralds.
 
 Knuren has the 6 other chaos emeralds and 2 Master Emerald Shards.
 

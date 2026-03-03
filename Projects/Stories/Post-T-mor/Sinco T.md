@@ -2,7 +2,7 @@
 
 # Overview
 
-The new [Sinco](../../../Other/Characters/Sinco.md) story after [T-mor](../T-mor.md).
+The new [Sinco](../../../Other/Characters/Sinco/Sinco.md) story after [T-mor](../T-mor.md).
 
 # Links
 
