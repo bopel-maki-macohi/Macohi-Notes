@@ -15,7 +15,7 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 
 ## Powers / Techniques
 
-N / A
+- 
 
 # Projects
 
