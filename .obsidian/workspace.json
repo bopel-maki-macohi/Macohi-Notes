@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/Gray (RVG).md",
+                "file": "Other/Explanations/Fury Form (RVG).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gray (RVG)"
+              "title": "Fury Form (RVG)"
             }
           }
         ]
@@ -205,9 +205,10 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Other/Characters/RVG/Gray (RVG).md",
+    "Other/Explanations/Fury Form (RVG).md",
     "Templates/Explanation Template.md",
     "Templates/AI Explanation Template.md",
-    "Other/Characters/RVG/Gray (RVG).md",
     "Other/Explanations",
     "Other/Characters/RVG/README.md",
     "Other/Characters/README.md",
@@ -235,7 +236,6 @@
     "Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 1).md",
     "Projects/AI Plots/README.md",
     "Other/AI Plotlines/Sinco T/Floating Island/Floating Island (Part 1) Plotline.md",
-    "Other/AI Explanations/Fuerza.md",
     "Projects/AI Plots/Sinco T/Floating Island",
     "Other/AI Plotlines/Sinco T/Floating Island",
     "Projects/AI Plots/Sinco T",
