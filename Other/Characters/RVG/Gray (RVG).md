@@ -7,7 +7,7 @@
 Pronouns: {{pronouns}}
 Gender: {{gender}}
 
-Species: [Stickfigure](../../../Stickfigure.md)
+Species: [Stickfigure](../../Species/Stickfigure.md)
 
 ## Alt Names
 

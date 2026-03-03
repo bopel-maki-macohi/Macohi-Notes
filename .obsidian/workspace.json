@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/Gray (RVG).md",
+                "file": "Other/Species/Stickfigure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gray (RVG)"
+              "title": "Stickfigure"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Stickfigure.md",
     "Other/Characters/RVG/Gray (RVG).md",
+    "Other/Species/Stickfigure.md",
     "Projects/Stories/Post-T-mor/RVG.md",
     "Other/Characters/Sinco/Kai-cyn.md",
     "Other/Characters/Sinco",
