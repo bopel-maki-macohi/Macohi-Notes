@@ -1,3 +1,3 @@
 #explanation
 
-Thing: Description
+Thing: Pretty much a
