@@ -6,3 +6,4 @@ Also everyone has the same powers and techniques so yeah, they just have to know
 - [After Image](../../Explanations/RVG/After%20Image.md)
 - [Mega Energy Blast](../../Explanations/RVG/Mega%20Energy%20Blast.md)
 - [Energy Shove](../../Explanations/RVG/Energy%20Shove.md)
+- Regen

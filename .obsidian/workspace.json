@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/Tan (RVG).md",
+                "file": "Other/Explanations/RVG/Regen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tan (RVG)"
+              "title": "Regen"
             }
           }
         ]
@@ -205,14 +205,15 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Characters/RVG/Gray (RVG).md",
+    "Other/Characters/RVG/README.md",
+    "Other/Explanations/RVG/Regen.md",
     "Other/Characters/RVG/Tan (RVG).md",
+    "Other/Characters/RVG/Gray (RVG).md",
     "Other/Characters/RVG/Green (RVG).md",
     "Other/Characters/RVG/Orange (RVG).md",
     "Other/Characters/RVG/Red (RVG).md",
     "Projects/Stories/Post-T-mor/RVG.md",
     "Other/Explanations/RVG/Fury Form (RVG).md",
-    "Other/Characters/RVG/README.md",
     "Other/Characters/README.md",
     "Other/Explanations/RVG/Mega Energy Blast.md",
     "Other/Explanations/RVG/Energy Shove.md",
@@ -235,7 +236,6 @@
     "Projects/Stories/Post-T-mor/RVG ; Canvas Adventures.md",
     "Projects/Plots/RVG",
     "Daily/2026-03-02.md",
-    "Other/AI Explanations/Kai-cyn.md",
     "Other/AI Plotlines/Kai-cyn",
     "Projects/AI Plots/Sinco T/Floating Island",
     "Other/AI Plotlines/Sinco T/Floating Island",
