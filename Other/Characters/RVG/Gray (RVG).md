@@ -11,7 +11,7 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 
 ## Alt Names
 
-- Grey
+The alt names for the color gray, including other languages.
 
 # Projects
 
