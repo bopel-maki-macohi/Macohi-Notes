@@ -2,7 +2,7 @@
 
 # Overview
 
-A creati
+A creation of [Green (RVG)](../Good%20Guys/Green%20(RVG).md)
 
 Pronouns: He / Him
 Gender: Male
