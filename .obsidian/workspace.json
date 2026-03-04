@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Explanations/Untitled.md",
+                "file": "Other/Explanations/RVG/Mega Energy Blast.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Mega Energy Blast"
             }
           }
         ]
@@ -205,8 +205,11 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Other/Explanations/RVG/Fury Form.md",
+    "Other/Explanations/RVG/Mega Energy Blast.md",
+    "Other/Explanations/RVG/After Image.md",
+    "Other/Explanations/RVG",
     "Other/Characters/RVG/Gray (RVG).md",
-    "Other/Explanations/Untitled.md",
     "Other/Characters/Sinco/TJ.md",
     "Other/Characters/Sinco/Tirok.md",
     "Other/Characters/Sinco/Sinco.md",
@@ -215,8 +218,6 @@
     "Other/Characters/Sinco/Kai-cyn.md",
     "Other/AI Explanations/Fuerza.md",
     "Other/AI Explanations/Tirok.md",
-    "Other/Explanations/After Image.md",
-    "Other/Explanations/Fury Form (RVG).md",
     "Templates/Explanation Template.md",
     "Templates/AI Explanation Template.md",
     "Other/Explanations",
@@ -235,12 +236,10 @@
     "Other/AI Plotlines/Kai-cyn",
     "Other/Ideas/Sinco T Knuren Planning.md",
     "Daily/2026-03-01.md",
-    "Projects/AI Plots/Sinco T/Floating Island (Full).md",
     "Projects/AI Plots/Sinco T/Floating Island",
     "Other/AI Plotlines/Sinco T/Floating Island",
     "Projects/AI Plots/Sinco T",
     "Projects/AI Plots",
-    "Other/AI Explanations",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
     "Other/Images/line-types-2.jpg",
