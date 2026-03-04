@@ -2,7 +2,7 @@
 
 # Overview
 
-The Frie
+The Frieza of RVG.
 
 Pronouns: He / Him
 Gender: Male
