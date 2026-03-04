@@ -11,24 +11,10 @@
             "id": "21aabebaf35a04a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Explanations/RVG/Fury Form (RVG).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Fury Form (RVG)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -205,12 +191,12 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
+    "Other/Explanations/RVG/Fury Form (RVG).md",
     "Other/Characters/RVG/README.md",
     "Other/Characters/RVG/Gray (RVG).md",
     "Other/Characters/README.md",
     "Other/Explanations/RVG/Mega Energy Blast.md",
     "Other/Explanations/RVG/Energy Shove.md",
-    "Other/Explanations/RVG/Fury Form (RVG).md",
     "Other/Explanations/RVG/After Image.md",
     "Other/Explanations/RVG",
     "Other/Characters/Sinco/TJ.md",
