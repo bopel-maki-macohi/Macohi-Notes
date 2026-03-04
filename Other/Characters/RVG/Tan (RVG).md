@@ -2,7 +2,7 @@
 
 # Overview
 
-One of the main protags of RVG, fighter.
+The Raditz of RVG
 
 Pronouns: He / Him
 Gender: Male
