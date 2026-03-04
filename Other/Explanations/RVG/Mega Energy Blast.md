@@ -1,3 +1,3 @@
 #explanation
 
-Thing: Description
+Mega Energy Blast: Description
