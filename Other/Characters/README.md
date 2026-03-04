@@ -1,3 +1,3 @@
 # Notes
 
-Like all the characters know flight lmao
+Like all the characters know flight and energy manipulation for attacks lol
