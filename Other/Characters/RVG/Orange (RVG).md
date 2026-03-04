@@ -2,7 +2,7 @@
 
 # Overview
 
-He's got this pencil that can draw anything so that's cool, not really a fighter though, he tries tho.
+Teacher figure for [Gray](Gray%20(RVG).md) and [Red](Red%20(RVG).md), big fighter.
 
 Pronouns: He / Him
 Gender: Male
@@ -11,7 +11,7 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 
 ## Alt Names
 
-The alt names for the color green, including other languages.
+The alt names for the color orange, including other languages.
 
 # Projects
 

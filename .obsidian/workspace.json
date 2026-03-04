@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/RVG/Green (RVG).md",
+                "file": "Other/Characters/RVG/Orange (RVG).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Green (RVG)"
+              "title": "Orange (RVG)"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "21aabebaf35a04a1",
   "lastOpenFiles": [
-    "Other/Characters/RVG/Red (RVG).md",
     "Other/Characters/RVG/Green (RVG).md",
+    "Other/Characters/RVG/Orange (RVG).md",
+    "Other/Characters/RVG/Red (RVG).md",
     "Other/Characters/RVG/Gray (RVG).md",
     "Projects/Stories/Post-T-mor/RVG.md",
     "Other/Explanations/RVG/Fury Form (RVG).md",
@@ -235,7 +236,6 @@
     "Daily/2026-03-02.md",
     "Other/AI Explanations/Kai-cyn.md",
     "Other/AI Plotlines/Kai-cyn/Fights for Strength.md",
-    "Other/Ideas/Sinco T Arc Ideas.md",
     "Other/AI Plotlines/Kai-cyn",
     "Projects/AI Plots/Sinco T/Floating Island",
     "Other/AI Plotlines/Sinco T/Floating Island",
