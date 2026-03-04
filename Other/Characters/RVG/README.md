@@ -10,3 +10,4 @@ Also everyone has the same powers and techniques so yeah, they just have to know
 - [Energy Shove (RVG)](../../Explanations/RVG/Energy%20Shove%20(RVG).md)
 - [Regal (RVG)](../../Explanations/RVG/Regal%20(RVG).md)
 - [Split (RVG)](../../Explanations/RVG/Split%20(RVG).md)
+- [Potential Unlock (RVG)](../../Explanations/RVG/Potential%20Unlock%20(RVG).md)
