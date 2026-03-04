@@ -2,7 +2,7 @@
 
 # Overview
 
-Worker of [Yellow](../(Primary)%20Bad%20Guys/Yellow%20(RVG).md).
+Worker of [Yellow](../(Primary)%20Bad%20Guys/Yellow%2
 
 Pronouns: He / Him
 Gender: Male
