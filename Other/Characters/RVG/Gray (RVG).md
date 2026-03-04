@@ -18,6 +18,7 @@ Species: [Stickfigure](../../Species/Stickfigure.md)
 - [Fury "Form"](../../Explanations/RVG/Fury%20Form.md)
 - [After Image](../../Explanations/RVG/After%20Image.md)
 - [Mega Energy Blast](../../Explanations/RVG/Mega%20Energy%20Blast.md)
+- [Energy Shove](../../Explanations/RVG/Energy%20Shove.md)
 
 # Projects
 
