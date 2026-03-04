@@ -2,7 +2,7 @@
 
 # Overview
 
-Big shot out here with his own subsection of Sky Blue's  
+Big shot out here with his own subsection of Sky Blue's Workforce.  
 
 Pronouns: He / Him
 Gender: Male
