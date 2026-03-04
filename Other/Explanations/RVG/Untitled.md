@@ -1,3 +1,3 @@
 #explanation
 
-Thing: Pretty much a
+Thing: Pretty much a kiai
