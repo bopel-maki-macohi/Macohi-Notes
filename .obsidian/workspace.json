@@ -11,24 +11,10 @@
             "id": "be20a35dcd5e94bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Characters/RVG/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -205,16 +191,16 @@
   },
   "active": "be20a35dcd5e94bd",
   "lastOpenFiles": [
+    "Daily/2026-03-04.md",
+    "Other/Characters/RVG/README.md",
     "Other/Explanations/RVG/Potential Unlock (RVG).md",
     "Other/Explanations/RVG/Mega Energy Blast (RVG).md",
     "Other/Random/RVG/Power Levels (RVG).md",
-    "Other/Characters/RVG/README.md",
     "Other/Characters/README.md",
     "Other/Characters/RVG/(Primary) Bad Guys/Blue (RVG).md",
     "Other/Explanations/RVG/Regal (RVG).md",
     "Other/Characters/RVG/(Primary) Bad Guys/Sketch (RVG).md",
     "Other/Characters/RVG/(Primary) Bad Guys/Sky Blue (RVG).md",
-    "Daily/2026-03-04.md",
     "Daily/2026-03-03.md",
     "Other/Explanations/RVG/Split (RVG).md",
     "Other/Explanations/RVG/Fury Form (RVG).md",
