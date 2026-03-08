@@ -7,4 +7,4 @@ Girlfriend of [Nicom](Nicom.md). This is my girlfriend ([Dat_Flora](https://www.
 Pronouns: She / Her
 Gender: Male
 
-Species: [Human](../../Species/Human.md)
+Species: [Human](../../Species/Human.md) (Unless you wanna count the Goddess 
