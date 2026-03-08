@@ -2,16 +2,19 @@
 
 # Overview
 
-{{overview}}
+A very aggressive version of [Aurora](Aurora.md), at least early on, now she's kinda chill, but still a bit violent.
+
+In her universe it was at a party where she got leaois
 
 Pronouns: She / Her
 Gender: Female
 
-Species: [Meta-Human](../../Species/Meta-Human.md)
+Species: [Meta-Human](../../Species/Meta-Human.md) (Mage?)
 
 ## Powers / Techniques
 
 - Electricity
+- Magic
 
 # Projects
 
