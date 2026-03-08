@@ -7,7 +7,7 @@ Ex-Husband (?) now I guess just regular boyfriend of [Goddess Aurora](Goddess%20
 Pronouns: She / Her
 Gender: Male
 
-Species: [Human](../../Species/Human.md) (Unless you wanna count the Goddess ring as a)
+Species: [Human](../../Species/Human.md) (Unless you wanna count the Goddess ring as a different species)
 ## Alt Names
 
 - Goddess Nicom
