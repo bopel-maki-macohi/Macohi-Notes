@@ -13,8 +13,6 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 - Electricity
 
-She's also got a bunch of 
-
 # Projects
 
 - [Nicom Zone](../../../Projects/Stories/Post-T-mor/Nicom%20Zone.md)
