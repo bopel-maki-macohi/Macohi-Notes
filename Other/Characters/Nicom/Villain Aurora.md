@@ -11,7 +11,9 @@ Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers / Techniques
 
-N / A
+- Electricity
+
+
 
 # Projects
 
