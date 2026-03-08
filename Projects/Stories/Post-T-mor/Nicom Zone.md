@@ -4,10 +4,10 @@
 
 Nicom zone is filled with the following characters:
 - [Nicom](../../../Nicom.md)
-- [[Aurora]]
-- [[Hero Nicom]]
-- [[Villain Aurora]]
-- [[Gicen]] / Goddess Nicom
+- [Aurora](../../../Aurora.md)
+- [Hero Nicom](../../../Hero%20Nicom.md)
+- [Villain Aurora](../../../Villain%20Aurora.md)
+- [[Gicen]]
 - [[Goddess Aurora]]
 
 # Links
