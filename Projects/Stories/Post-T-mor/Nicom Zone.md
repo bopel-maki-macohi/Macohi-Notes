@@ -11,7 +11,7 @@ Nicom zone is filled with the following characters:
 - [Goddess Aurora](../../../Other/Characters/Nicom/Goddess%20Aurora.md)
 - [Twisted Nicom](../../../Other/Characters/Nicom/Twisted%20Nicom.md)
 
-They've all got their own lores n stuff and Nicom Zone
+They've all got their own lores n stuff and Nicom Zone brings them all together.
 
 # Links
 
