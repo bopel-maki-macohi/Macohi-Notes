@@ -2,7 +2,9 @@
 
 # Overview
 
-Boyfriend of [Villain Aurora](Villain%20Aurora.md), he's the good guy of his universe
+Boyfriend of [Villain Aurora](Villain%20Aurora.md), he's the good guy of his universe, at least until his secret relationship with Villain Aurora gets out, then he just rolls with what she does.
+
+He's a lil goofy goober.
 
 Pronouns: He / Him
 Gender: Male
