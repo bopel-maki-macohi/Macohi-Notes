@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Nicom/Gicen.md",
+                "file": "Other/Characters/Nicom/Aurora.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gicen"
+              "title": "Aurora"
             }
           },
           {
@@ -227,11 +227,11 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "f7cbcc27565ff698",
   "lastOpenFiles": [
+    "Other/Characters/Nicom/Gicen.md",
     "Other/Explanations/Nicom",
     "Other/Explanations/Nicom/The Goddess Ring.md",
-    "Other/Characters/Nicom/Gicen.md",
     "Other/Characters/Nicom/Aurora.md",
     "Templates/Character Template.md",
     "Projects/Stories/Post-T-mor/Nicom Zone.md",
@@ -264,7 +264,6 @@
     "Other/Characters/RVG/Good Guys",
     "Other/Explanations/RVG",
     "Other/Explanations",
-    "Other/Characters/Sinco",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
     "Other/Images/line-types-2.jpg",
