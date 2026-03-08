@@ -7,15 +7,11 @@ Child of [Gicen](Gicen.md) and [Goddess Aurora](Goddess%20Aurora.md), meant to h
 Pronouns: She / Her
 Gender: Female
 
-Species: {{species}}
-
-## Alt Names
-
-{{alt_names}}
+Species: [Meta-Human](../../Species/Meta-Human.md)
 
 ## Powers / Techniques
 
-N / A
+- Goddess Powers via [The Goddess Ring](../../Explanations/Nicom/The%20Goddess%20Ring.md)
 
 # Projects
 
