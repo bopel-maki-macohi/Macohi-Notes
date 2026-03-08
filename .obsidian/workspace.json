@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Nicom/Ocpi (Nicom).md",
+                "file": "Other/Characters/Nicom/Nioc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ocpi (Nicom)"
+              "title": "Nioc"
             }
           },
           {
@@ -41,7 +41,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,14 +214,14 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "f7cbcc27565ff698",
+  "active": "22ba3b6d106bb959",
   "lastOpenFiles": [
-    "Other/Characters/Nicom/Twisted Nicom.md",
-    "Other/Characters/Nicom/Ocpi (Nicom).md",
-    "Other/Characters/Nicom/Villain Aurora.md",
     "Other/Characters/Nicom/Nioc.md",
-    "Other/Explanations/Nicom/The Goddess Ring.md",
     "Other/Characters/Nicom/Hero Nicom.md",
+    "Other/Characters/Nicom/Ocpi (Nicom).md",
+    "Other/Characters/Nicom/Twisted Nicom.md",
+    "Other/Characters/Nicom/Villain Aurora.md",
+    "Other/Explanations/Nicom/The Goddess Ring.md",
     "Other/Characters/Nicom/Nicom.md",
     "Other/Characters/Sinco/Ocpi (Sinco).md",
     "Other/Characters/Nicom/Aurora.md",
