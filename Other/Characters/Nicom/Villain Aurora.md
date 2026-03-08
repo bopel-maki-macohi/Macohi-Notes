@@ -4,7 +4,7 @@
 
 A very aggressive version of [Aurora](Aurora.md), at least early on, now she's kinda chill, but still a bit violent.
 
-In her universe it was at a party where she got leaois
+In her universe it was at a party where she got jealous of 
 
 Pronouns: She / Her
 Gender: Female
