@@ -8,12 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0c51dc317237f6a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "be20a35dcd5e94bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Stories/Post-T-mor/Nicom Zone.md",
+                "file": "Nicom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nicom Zone"
+              "title": "Nicom"
             }
           }
         ]
@@ -203,10 +213,11 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "be20a35dcd5e94bd",
+  "active": "0c51dc317237f6a4",
   "lastOpenFiles": [
-    "Other/Random/RVG/Power Levels (RVG).md",
+    "Nicom.md",
     "Projects/Stories/Post-T-mor/Nicom Zone.md",
+    "Other/Random/RVG/Power Levels (RVG).md",
     "Daily/2026-03-08.md",
     "Other/Number Phrases.md",
     "Other/Characters/RVG/Misc/Blue (RVG).md",
@@ -231,7 +242,6 @@
     "Other/Characters/RVG/(Secondary) Bad Guys/Aqua Green (RVG).md",
     "Other/Characters/RVG/Good Guys/Gray (RVG).md",
     "Other/Characters/RVG/Good Guys/Green (RVG).md",
-    "Other/Characters/RVG/Good Guys/Orange (RVG).md",
     "Other/Random/RVG",
     "Other/Random",
     "Other/Characters/RVG/(Primary) Bad Guys",

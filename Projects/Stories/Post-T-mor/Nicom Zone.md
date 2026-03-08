@@ -2,7 +2,13 @@
 
 # Overview
 
-{{overview}}
+Nicom zone is filled with the following characters:
+- [[Nicom]]
+- [[Aurora]]
+- [[Hero Nicom]]
+- [[Villain Aurora]]
+- [[Gicen]] / Goddess Nicom
+- [[Goddess Aurora]]
 
 # Links
 
