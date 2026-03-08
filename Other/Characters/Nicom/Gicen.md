@@ -10,6 +10,7 @@ Gender: Male
 Species: [Human](../../Species/Human.md) (Unless you wanna count the Goddess ring as a)
 ## Alt Names
 
+- Goddess Nicom
 
 ## Powers / Techniques
 
