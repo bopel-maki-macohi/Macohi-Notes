@@ -15,4 +15,4 @@ Species: Twisted (Dandy's World)
 
 # Projects
 
-N / A
+- [Nicom Zone](../../../Projects/Stories/Post-T-mor/Nicom%20Zone.md)
