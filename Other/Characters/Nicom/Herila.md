@@ -2,7 +2,7 @@
 
 # Overview
 
-Child of [Gicen](Gicen.md) and [Goddess Aurora](Goddess%20Aurora.md), meant to help fix their relationship but meh, kinda just brings them together more.
+Child of 
 
 Pronouns: She / Her
 Gender: Female
