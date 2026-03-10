@@ -2,7 +2,7 @@
 
 # Overview
 
-The general
+The general representation 
 
 Pronouns: They / Them
 Gender: Dependent
