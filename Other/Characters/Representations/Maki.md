@@ -4,8 +4,8 @@
 
 {{overview}}
 
-Pronouns: {{pronouns}}
-Gender: {{gender}}
+Pronouns: They / Them / 
+Gender: Female
 
 Species: N / A
 
