@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Nioc"
             }
-          },
-          {
-            "id": "22ba3b6d106bb959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-03-09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-09"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,9 +203,11 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "22ba3b6d106bb959",
+  "active": "34cda017165404b9",
   "lastOpenFiles": [
     "Daily/2026-03-09.md",
+    "Daily/2026-03-02.md",
+    "Daily/2026-03-08.md",
     "Other/Characters/Nicom/Herila.md",
     "Other/Characters/Nicom/Rina.md",
     "Daily/2026-02-23.md",
@@ -238,7 +215,6 @@
     "Other/Characters/Nicom/Nioc.md",
     "Other/Characters/Nicom/Goddess Aurora.md",
     "Other/Characters/Nicom/Hero Nicom.md",
-    "Daily/2026-03-08.md",
     "Other/Characters/Nicom/Twisted Nicom.md",
     "Other/Characters/Nicom/Villain Aurora.md",
     "Other/Explanations/Nicom/The Goddess Ring.md",
@@ -258,7 +234,6 @@
     "Daily/2026-03-05.md",
     "Other/Explanations/RVG/Fury Form (RVG).md",
     "Other/Characters/RVG/Misc",
-    "Other/Explanations/RVG/Potential Unlock (RVG).md",
     "Other/Random/RVG",
     "Other/Random",
     "Other/Characters/RVG/(Primary) Bad Guys",
