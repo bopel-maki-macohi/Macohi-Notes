@@ -11,10 +11,24 @@
             "id": "c53ca75da10dcb8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-03-14"
             }
           }
         ]
@@ -189,8 +203,9 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "4d45f6bb52eec551",
+  "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
+    "Daily/2026-03-14.md",
     "Daily/2026-03-13.md",
     "Daily/2026-03-12.md",
     "Daily/2026-03-11.md",
@@ -219,7 +234,6 @@
     "Other/Characters/Nicom/Aurora.md",
     "Other/Characters/Nicom/Gicen.md",
     "Other/Explanations/Nicom",
-    "Templates/Character Template.md",
     "Other/Characters/Nicom",
     "Other/Characters/RVG/Misc",
     "Other/Random/RVG",
