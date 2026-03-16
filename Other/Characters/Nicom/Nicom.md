@@ -32,6 +32,7 @@ Species: [Human](../../Species/Human.md)
 # Power(?)
 
 - Can toggle between girl and boy with a kiss cause of [Rina](Rina.md) and [Herila](Herila.md).
+- Herila
 
 # Projects
 
