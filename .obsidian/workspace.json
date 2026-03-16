@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Characters/Nicom/Nicom.md",
+                "file": "Projects/Stories/Post-T-mor/Nicom Zone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nicom"
+              "title": "Nicom Zone"
             }
           }
         ]
@@ -203,8 +203,10 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "c53ca75da10dcb8e",
+  "active": "34cda017165404b9",
   "lastOpenFiles": [
+    "Other/Characters/Nicom/Nicom.md",
+    "Projects/Plots/Nicom Zone",
     "Daily/2026-03-15.md",
     "Other/AI Explanations/Fuerza.md",
     "Daily/2026-02-23.md",
@@ -215,7 +217,6 @@
     "Daily/2026-03-12.md",
     "Daily/2026-03-11.md",
     "Daily/2026-03-10.md",
-    "Other/Characters/Nicom/Nicom.md",
     "Other/Explanations/Daily/Watermelon Gummy Candy.md",
     "Other/Explanations/Daily",
     "Other/Characters/Representations/Bopel.md",
@@ -232,7 +233,6 @@
     "Other/Characters/Nicom/Goddess Aurora.md",
     "Other/Characters/Nicom/Hero Nicom.md",
     "Other/Characters/Nicom/Twisted Nicom.md",
-    "Other/Characters/Nicom/Villain Aurora.md",
     "Other/Explanations/Nicom",
     "Other/Characters/Nicom",
     "Other/Characters/RVG/Misc",
@@ -240,7 +240,6 @@
     "Other/Random",
     "Other/Characters/RVG/(Primary) Bad Guys",
     "Other/Characters/RVG/(Secondary) Bad Guys",
-    "Other/Characters/RVG/Good Guys",
     "Other/Images/line-types.jpg",
     "Other/Images/Pasted image 20260225201826.png",
     "Other/Images/line-types-2.jpg",
