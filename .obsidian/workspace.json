@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Stories/Post-T-mor/Nicom Zone.md",
+                "file": "Daily/2026-03-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nicom Zone"
+              "title": "2026-03-15"
             }
           }
         ]
@@ -203,8 +203,9 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
+    "Projects/Stories/Post-T-mor/Nicom Zone.md",
     "Other/Characters/Nicom/Nicom.md",
     "Projects/Plots/Nicom Zone",
     "Daily/2026-03-15.md",
