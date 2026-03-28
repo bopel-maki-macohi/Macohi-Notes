@@ -11,24 +11,10 @@
             "id": "c53ca75da10dcb8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -202,8 +188,9 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
+    "README.md",
     "post-3-16-2026",
     "Daily/2026-03-27.md",
     "pre-3-16-2026",
@@ -239,7 +226,6 @@
     "pre-3-16-2026/Other/Characters/RVG/Misc",
     "pre-3-16-2026/Other/Random/RVG",
     "pre-3-16-2026/Other/Random",
-    "pre-3-16-2026/Other/Characters/RVG/(Primary) Bad Guys",
     "pre-3-16-2026/Other/Images/line-types.jpg",
     "pre-3-16-2026/Other/Images/Pasted image 20260225201826.png",
     "pre-3-16-2026/Other/Images/line-types-2.jpg",
