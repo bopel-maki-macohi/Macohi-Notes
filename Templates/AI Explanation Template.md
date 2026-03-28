@@ -1,3 +1,0 @@
-#ai-explanation
-
-Thing: Description

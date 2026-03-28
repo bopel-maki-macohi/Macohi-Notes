@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/AI Explanations/Fuerza.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fuerza"
+              "title": "README"
             }
           }
         ]
@@ -204,6 +204,7 @@
   },
   "active": "34cda017165404b9",
   "lastOpenFiles": [
+    "Other/AI Explanations/Fuerza.md",
     "season1/Projects/Stories/Pre-T-mor/Sinco Retold.md",
     "season1/Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
     "season1/Projects/Stories/Pre-T-mor/Sin Consistencia.md",
@@ -231,7 +232,6 @@
     "season1",
     "Daily/2026-03-18.md",
     "Daily/2026-03-17.md",
-    "Daily/2026-03-16.md",
     "season1/Projects/Plots/Nicom Zone",
     "Other/Explanations/Daily",
     "Other/Characters/Representations",

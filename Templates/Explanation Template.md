@@ -1,3 +1,0 @@
-#explanation
-
-Thing: Description
