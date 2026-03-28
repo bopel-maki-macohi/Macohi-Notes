@@ -1,4 +1,4 @@
-#plot #kaicyn #sinco 
+#season1 #plot #kaicyn #sinco 
 
 | Story Date     |
 | -------------- |
