@@ -2,7 +2,7 @@
 
 # Overview
 
-Worker of [Yellow](Yellow%20(RVG).md). Revived by Sketch to beat up [Orange](../Good%20Guys/Orange%20(RVG).md) but he wants to beat up [Gray](../Good%20Guys/Gray%20(RVG).md).
+Big shot out here with his own subsection of [Sky Blue's](Sky%20Blue%20(RVG).md) Workforce. His main target was the pencil [Green](../Good%20Guys/Green%20(RVG).md) had.
 
 Pronouns: He / Him
 Gender: Male

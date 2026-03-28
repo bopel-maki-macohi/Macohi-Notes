@@ -2,7 +2,7 @@
 
 # Overview
 
-Teacher figure for [Gray](Gray%20(RVG).md) and [Red](Good%20Guys/Red%20(RVG).md), big fighter.
+Teacher figure for [Gray](Gray%20(RVG).md) and [Red](Red%20(RVG).md), big fighter.
 
 Pronouns: He / Him
 Gender: Male
