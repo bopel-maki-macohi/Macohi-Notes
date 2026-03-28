@@ -4,7 +4,7 @@
 | ----------------- |
 | January 7th, 2032 |
 
-After [T-mor](../../Stories/T-mor.md), [Sinco](../../../Other/Characters/Sinco/Sinco.md)'s moving through Tempo City trying to process all of these new memories, abilities and powers that he has just received.
+After [T-mor](../../Stories/T-mor.md), [Sinco](../../../../Other/Characters/Sinco/Sinco.md)'s moving through Tempo City trying to process all of these new memories, abilities and powers that he has just received.
 
 When all of a sudden a purple blur flies straight at him, colliding and creating a crater in the ground.
 
@@ -16,7 +16,7 @@ Suddenly a flash a memories flicker in his mind.
 
 "Malipor! You piece of shit you just won't stay DEAD."
 
-![](../../../Other/Images/sincot-malipor.jpg)
+![](../../../../Other/Images/sincot-malipor.jpg)
 (Malipor Drawing inspired by [Powerjack (JP Mix)](https://www.youtube.com/watch?v=sWA9LD6a_xE))
 
 "Not when I have a chance to put your face in the DIRT."

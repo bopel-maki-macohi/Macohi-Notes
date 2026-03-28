@@ -2,9 +2,9 @@
 
 The island drifted through open sky, its underside wrapped in mist and its surface crowned with unfinished steel.
 
-[Sinco](../../../Other/Characters/Sinco/Sinco.md) landed in a spiral of **green lightning**, shoes scraping against stone as kinetic wind rolled outward. His jacket snapped behind him while he took in the sight ahead—massive alloy pillars locking into place, drones ferrying equipment, a central tower rising like a needle aimed at the heavens.
+[Sinco](../../../../Other/Characters/Sinco/Sinco.md) landed in a spiral of **green lightning**, shoes scraping against stone as kinetic wind rolled outward. His jacket snapped behind him while he took in the sight ahead—massive alloy pillars locking into place, drones ferrying equipment, a central tower rising like a needle aimed at the heavens.
 
-[(Evil) Tirok's](../../../Other/Characters/Sinco/Tirok.md) base was almost operational.
+[(Evil) Tirok's](../../../../Other/Characters/Sinco/Tirok.md) base was almost operational.
 
 “Can’t let you finish that,” Sinco murmured.
 
@@ -18,7 +18,7 @@ The impact detonated the ground beneath him, stone spiderwebbing as Sinco was hu
 
 A shadow fell over him.
 
-[Knuren](../../../Other/Characters/Sinco/Knuren.md) stood at the edge of the crater, shoulders squared, eyes glowing faintly **purple**. The markings along his arms pulsed with the same hue—no energy blasts, no theatrics. Just raw, condensed force humming beneath his skin.
+[Knuren](../../../../Other/Characters/Sinco/Knuren.md) stood at the edge of the crater, shoulders squared, eyes glowing faintly **purple**. The markings along his arms pulsed with the same hue—no energy blasts, no theatrics. Just raw, condensed force humming beneath his skin.
 
 Sinco coughed, pushing himself up. Green sparks danced across his fingers.
 
@@ -206,7 +206,7 @@ The pilot’s glare met his through the visor. No words. Nothing but pure, calcu
 
 The mech raised a massive fist, energy charging at the knuckles, ready to finish him.
 
-“[FUERZA!](../../../Other/AI%20Explanations/Fuerza.md)” Sinco screamed.
+“[FUERZA!](../../../../Other/AI%20Explanations/Fuerza.md)” Sinco screamed.
 
 The world ignited.
 
@@ -382,7 +382,7 @@ The Death Star’s automated defenses whirred to life. Tirok and his army arrive
 
 Sinco’s aura erupted.
 
-His hair spiked upward, golden light cascading from him, eyes blazing red. Chaos energy coursed through him, merging with his lightning, his speed, his phasing. **[Super Sinco](../../../Other/AI%20Explanations/Super%20Sinco.md)** was born. The Death Star trembled from the sheer magnitude of his power.
+His hair spiked upward, golden light cascading from him, eyes blazing red. Chaos energy coursed through him, merging with his lightning, his speed, his phasing. **[Super Sinco](../../../../Other/AI%20Explanations/Super%20Sinco.md)** was born. The Death Star trembled from the sheer magnitude of his power.
 
 Knuren yelped as the golden figure swooped down, grabbing him and the Master Emerald. Space rushed past, the void pressing against them. Super Sinco shot downward, away from the Death Star, engines and aura blending into one blinding streak of yellow.
 

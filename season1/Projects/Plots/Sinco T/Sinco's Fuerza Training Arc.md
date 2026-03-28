@@ -4,10 +4,10 @@
 | -------------- |
 | June 25th 2033 |
 
-[Sinco](../../../Other/Characters/Sinco/Sinco.md) started training to improve his Fuerza cause [Kai](../../../Other/Characters/Sinco/Kai-cyn.md) made him jealous ([see here](../Kai-cyn%20(Story)/1%20Year%20after%20discovery.md))
+[Sinco](../../../../Other/Characters/Sinco/Sinco.md) started training to improve his Fuerza cause [Kai](../../../../Other/Characters/Sinco/Kai-cyn.md) made him jealous ([see here](../Kai-cyn%20(Story)/1%20Year%20after%20discovery.md))
 
-![](../../../Other/Images/sincot-fuerzatraining.jpg)
+![](../../../../Other/Images/sincot-fuerzatraining.jpg)
 
 Since this isnt fully sinco retold sinco he has problems
-![](../../../Other/Images/sincot-crash.jpg)
+![](../../../../Other/Images/sincot-crash.jpg)
 

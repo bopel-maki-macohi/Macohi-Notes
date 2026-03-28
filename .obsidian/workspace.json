@@ -11,24 +11,10 @@
             "id": "c53ca75da10dcb8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "season1/Projects/Stories/Pre-T-mor/Sinco Retold.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sinco Retold"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -204,6 +190,7 @@
   },
   "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
+    "season1/Projects/Stories/Pre-T-mor/Sinco Retold.md",
     "season1/Projects/Stories/Pre-T-mor/Sinco (2025 Remake).md",
     "season1/Projects/Stories/Pre-T-mor/Sin Consistencia.md",
     "season1/Projects/Stories/T-mor.md",
@@ -231,23 +218,22 @@
     "Daily/2026-03-18.md",
     "Daily/2026-03-17.md",
     "Daily/2026-03-16.md",
-    "Daily/2026-03-15.md",
     "season1/Projects/Plots/Nicom Zone",
-    "season1/Other/Explanations/Daily",
-    "season1/Other/Characters/Representations",
-    "season1/Other/Explanations/Nicom",
-    "season1/Other/Characters/Nicom",
-    "season1/Other/Characters/RVG/Misc",
-    "season1/Other/Random/RVG",
-    "season1/Other/Random",
-    "season1/Other/Images/line-types.jpg",
-    "season1/Other/Images/Pasted image 20260225201826.png",
-    "season1/Other/Images/line-types-2.jpg",
-    "season1/Other/Images/sincot-malipor.jpg",
-    "season1/Other/Images/sincot-fuerzatraining.jpg",
-    "season1/Other/Images/kaicyn-fuerza20.jpg",
-    "season1/Other/Images/sincot-crash.jpg",
-    "season1/Other/Images/kaicyn-thediscovery.jpg",
+    "Other/Explanations/Daily",
+    "Other/Characters/Representations",
+    "Other/Explanations/Nicom",
+    "Other/Characters/Nicom",
+    "Other/Characters/RVG/Misc",
+    "Other/Random/RVG",
+    "Other/Random",
+    "Other/Images/line-types.jpg",
+    "Other/Images/Pasted image 20260225201826.png",
+    "Other/Images/line-types-2.jpg",
+    "Other/Images/sincot-malipor.jpg",
+    "Other/Images/sincot-fuerzatraining.jpg",
+    "Other/Images/kaicyn-fuerza20.jpg",
+    "Other/Images/sincot-crash.jpg",
+    "Other/Images/kaicyn-thediscovery.jpg",
     "Untitled.canvas"
   ]
 }
