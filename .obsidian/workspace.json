@@ -11,12 +11,24 @@
             "id": "c53ca75da10dcb8e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Ideas/whitevoid/whitevoid.png"
+                "file": "Ideas/whitevoid/Whitevoid.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "whitevoid"
+              "icon": "lucide-file",
+              "title": "Whitevoid"
             }
           }
         ]
@@ -190,10 +202,10 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "34cda017165404b9",
+  "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
-    "Ideas/whitevoid/Whitevoid.md",
     "Ideas/whitevoid/whitevoid.png",
+    "Ideas/whitevoid/Whitevoid.md",
     "Daily/season1/2026-02-23.md",
     "Ideas/whitevoid/Untitled.png.0.pdnSave",
     "Ideas/whitevoid",
