@@ -10,6 +10,4 @@ Basically I do everything but music.
 
 ## Update Names
 
-Something like Minecraft's: 2026.1, 2026.2, etc,
-
-but instead it's 
+Something like Minecraft's: 2026.1, 2026.2, etc, but instead it's month based,
