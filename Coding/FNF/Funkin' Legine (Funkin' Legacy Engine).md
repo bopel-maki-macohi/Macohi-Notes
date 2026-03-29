@@ -1,1 +1,2 @@
-FNF but it's me
+FNF but it's me doing art and coding.
+
