@@ -16,4 +16,4 @@ Examples:
 
 - May 2026 Update 1
 - August 2026 Update 3
-	- (I doupt I'm ge)
+	- (I doubt I'm getting this far NGL.)
