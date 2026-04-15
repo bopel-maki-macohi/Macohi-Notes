@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-12.md",
+                "file": "Daily/2026-04-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-12"
+              "title": "2026-04-14"
             }
           }
         ]
@@ -204,8 +204,10 @@
   },
   "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
-    "Coding/FNF/FNF Legine (Legacy Engine).md",
+    "Daily/2026-04-13.md",
+    "Daily/2026-04-14.md",
     "Daily/2026-04-12.md",
+    "Coding/FNF/FNF Legine (Legacy Engine).md",
     "Daily/2026-03-30.md",
     "Daily/2026-03-27.md",
     "Daily/2026-03-29.md",
@@ -237,8 +239,6 @@
     "season1/Projects/Plots/Kai-cyn (Story)/1 Year after discovery.md",
     "season1/Projects/AI Plots/README.md",
     "season1/Projects/AI Plots/Sinco T/Floating Island (Full).md",
-    "season1/Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 5).md",
-    "season1/Projects/AI Plots/Sinco T/Floating Island/Floating Island (Part 4).md",
     "season2",
     "season1",
     "Other/Images/line-types.jpg",
