@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-04-19.md",
+                "file": "Daily/2026-04-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-19"
+              "title": "2026-04-24"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "c53ca75da10dcb8e",
   "lastOpenFiles": [
-    "Daily/2026-04-17.md",
     "Daily/2026-04-19.md",
+    "Daily/2026-04-24.md",
+    "Daily/2026-04-17.md",
     "Daily/2026-04-15.md",
     "Daily/2026-04-14.md",
     "Daily/2026-04-13.md",
@@ -238,7 +239,6 @@
     "season1/Projects/Plots/Sinco T/Sinco's Fuerza Training Arc.md",
     "season1/Projects/Plots/Sinco T/Malipor's Return (Sinco T).md",
     "season1/Projects/Plots/Kai-cyn (Story)/README.md",
-    "season1/Projects/Plots/Kai-cyn (Story)/The discovery.md",
     "season2",
     "season1",
     "Other/Images/line-types.jpg",
