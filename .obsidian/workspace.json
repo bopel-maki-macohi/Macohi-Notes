@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0d8c62f5f86041a",
+        "id": "288825abc7cf76fc",
         "type": "tabs",
         "children": [
           {
-            "id": "4c06f8384eef623c",
+            "id": "57be769af07dbc47",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "5f08e0a01e8f8028",
@@ -189,7 +188,7 @@
       "enhance-youtube-links:Get YouTube data": false
     }
   },
-  "active": "4c06f8384eef623c",
+  "active": "57be769af07dbc47",
   "lastOpenFiles": [
     "Daily/2026-08-10.md",
     "Daily/2026-07-05.md",
